@@ -9,7 +9,7 @@
             <table class="table mt-4">
                 <thead>
                     <tr>
-                        <th scope="col">#</th>
+                        <th scope="col">No</th>
                         <th scope="col">Name</th>
                         <th scope="col">Photo</th>
                         <th scope="col">Action</th>
